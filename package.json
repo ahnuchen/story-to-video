@@ -1,0 +1,19 @@
+{
+  "name": "ffcreator-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dayjs": "^1.11.7",
+    "ffcreator": "^7.0.3",
+    "fs-extra": "^11.1.1",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,5 @@
+output/
+geneImages/
+videos/
+.cache/
+node_modules/
